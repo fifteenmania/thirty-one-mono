@@ -1,0 +1,12 @@
+{
+  "name": "heuristic-strategy",
+  "packageManager": "yarn@3.2.3",
+  "type": "module",
+  "scripts": {
+    "test": "node --loader tsx --test src/*.test.ts"
+  },
+  "devDependencies": {
+    "tsx": "^3.12.1",
+    "typescript": "^4.9.3"
+  }
+}
